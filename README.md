@@ -7,8 +7,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)  
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript) 
-![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node) 
+![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000000?style=for-the-badge&logo=webpack)
 
 
