@@ -8,9 +8,13 @@
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)  
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
-![WEBPACK](https://img.shields.io/badge/-WEBPACK-000000?style=for-the-badge&logo=webpack)
 
-
+🔭 I’m currently working on these projects:  
+- https://github.com/filonushka/react-pizza  
+- https://github.com/filonushka/pet-project-gocorona  
+- https://github.com/filonushka/dino-game  
+- https://github.com/filonushka/frontend-marathon  
+- https://github.com/rolling-scopes-school/filonushka-JS2020Q3/tree/calculator  
 <!-- ### Follow me   -->
 
 
