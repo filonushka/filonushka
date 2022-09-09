@@ -9,12 +9,12 @@
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 
-🔭 I’m currently working on these projects:  
+🔭 Last projects:  
 - https://github.com/filonushka/react-pizza  
-- https://github.com/filonushka/pet-project-gocorona  
+- https://github.com/filonushka/pet-project-gocorona (deploy: https://go-corona-pet-project.netlify.app/)  
+- https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
 - https://github.com/filonushka/dino-game  
 - https://github.com/filonushka/frontend-marathon  
-- https://github.com/rolling-scopes-school/filonushka-JS2020Q3/tree/calculator  
 <!-- ### Follow me   -->
 
 
