@@ -13,7 +13,7 @@
 - https://github.com/filonushka/react-pizza  
 - https://github.com/filonushka/pet-project-gocorona (deploy: https://go-corona-pet-project.netlify.app/)  
 - https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
-- https://github.com/filonushka/dino-game  
+- https://github.com/filonushka/dino-game (deploy: https://filonushka.github.io/dino-game/)  
 - https://github.com/filonushka/frontend-marathon  
 - https://github.com/filonushka/pet-project-webdev (deploy: https://pet-project-webdev.netlify.app/) 
 <!-- ### Follow me   -->
