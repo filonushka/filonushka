@@ -10,12 +10,13 @@
 ![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 
 🔭 Last projects:  
-- https://github.com/filonushka/react-pizza  
-- https://github.com/filonushka/pet-project-gocorona (deploy: https://go-corona-pet-project.netlify.app/)  
-- https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
-- https://github.com/filonushka/dino-game (deploy: https://filonushka.github.io/dino-game/)  
-- https://github.com/filonushka/frontend-marathon  
-- https://github.com/filonushka/pet-project-webdev (deploy: https://pet-project-webdev.netlify.app/) 
+- Online pizza-shop: https://github.com/filonushka/react-pizza  
+- Landing page: https://github.com/filonushka/pet-project-gocorona (deploy: https://go-corona-pet-project.netlify.app/)  
+- Online-calculator (HTML, CSS, JS): https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
+- Dino-game: https://github.com/filonushka/dino-game (deploy: https://filonushka.github.io/dino-game/)  
+- Frontend-marathon (5 small projects): https://github.com/filonushka/frontend-marathon  
+- Landing page (HTML, CSS): https://github.com/filonushka/pet-project-webdev (deploy: https://pet-project-webdev.netlify.app/) 
+- Burger-menu (HTML, CSS, JS): https://github.com/filonushka/burger-menu-js (deploy: https://filonushka.github.io/burger-menu-js/)
 <!-- ### Follow me   -->
 
 
