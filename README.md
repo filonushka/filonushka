@@ -15,7 +15,7 @@
 - Online-calculator (HTML, CSS, JS): https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
 - Dino-game: https://github.com/filonushka/dino-game (deploy: https://filonushka.github.io/dino-game/)  
 - Frontend-marathon (5 small projects): https://github.com/filonushka/frontend-marathon  
-- Landing page (HTML, CSS): https://github.com/filonushka/pet-project-webdev (deploy: https://pet-project-webdev.netlify.app/) 
+- Landing page (HTML, CSS): https://github.com/filonushka/pet-project-webdev (deploy: https://filonushka.github.io/pet-project-webdev/) 
 - Burger-menu (HTML, CSS, JS): https://github.com/filonushka/burger-menu-js (deploy: https://filonushka.github.io/burger-menu-js/)
 <!-- ### Follow me   -->
 
