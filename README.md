@@ -37,16 +37,20 @@
   - [Frontend-marathon (5 small projects)](https://github.com/filonushka/frontend-marathon)  
 
  
-<!--  ### Follow me   -->
-<!--  ![] -->
+### 😉 Follow me   
+- [LinkedIn](https://www.linkedin.com/in/valeriya-filonova-89b89712b/)  
 
+- [Instagram](https://www.instagram.com/filonushka_v/)
+
+
+### 📫 How to reach me: valeriya.s.filonova@gmail.com
 <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-- 📫 How to reach me:
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
