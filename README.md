@@ -9,16 +9,36 @@
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 
-🔭 Last projects:  
-- Online pizza-shop: https://github.com/filonushka/react-pizza  
-- Landing page: https://github.com/filonushka/pet-project-gocorona (deploy: https://go-corona-pet-project.netlify.app/)  
-- Online-calculator (HTML, CSS, JS): https://github.com/filonushka/pet-project-calculator (deploy: https://pet-project-calculator.netlify.app/)
-- Dino-game: https://github.com/filonushka/dino-game (deploy: https://filonushka.github.io/dino-game/)  
-- Frontend-marathon (5 small projects): https://github.com/filonushka/frontend-marathon  
-- Landing page (HTML, CSS): https://github.com/filonushka/pet-project-webdev (deploy: https://filonushka.github.io/pet-project-webdev/) 
-- Burger-menu (HTML, CSS, JS): https://github.com/filonushka/burger-menu-js (deploy: https://filonushka.github.io/burger-menu-js/)
-<!-- ### Follow me   -->
+### 🔭 Last projects:  
+- Pet-projects: 
+  - [Online pizza-shop "REACT-PIZZA"](https://github.com/filonushka/react-pizza) (HTML, CSS, React JS)
+  - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
+  - [TODO List](https://github.com/filonushka/todolist) (HTML, SASS, JS), [deploy](https://filonushka.github.io/todolist/)  
+  - [Book Search App](https://github.com/filonushka/book-search-app)
 
+
+- HTML+CSS:  
+  - [GoCorona](https://github.com/filonushka/pet-project-gocorona) (HTML, CSS), [deploy](https://go-corona-pet-project.netlify.app/)  
+  - [WebDev](https://github.com/filonushka/pet-project-webdev) (HTML, CSS), [deploy](https://filonushka.github.io/pet-project-webdev/)  
+  - [Photographer's portfolio](https://filonushka.github.io/task-portfolio/)    
+
+
+- Components: 
+  - [Burger-menu Component](https://github.com/filonushka/burger-menu-js) (HTML, CSS, JS), [deploy](https://filonushka.github.io/burger-menu-js/)  
+  - BreadCrumb Navigation Component 
+  - Chips Component  
+  - Slider Component 
+  - Toast Notifications Component
+
+- Games: 
+  - [Dino-game](https://github.com/filonushka/dino-game), [deploy](https://filonushka.github.io/dino-game/)
+
+- DevMarathons:   
+  - [Frontend-marathon (5 small projects)](https://github.com/filonushka/frontend-marathon)  
+
+ 
+<!--  ### Follow me   -->
+<!--  ![] -->
 
 <!--
 Here are some ideas to get you started:
