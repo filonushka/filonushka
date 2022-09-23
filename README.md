@@ -1,15 +1,15 @@
 <!-- ### About Me -->
 
-### Languages and Tools  
+###  🧰 Languages and Tools  
 ![JS](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3) 
 ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass)  
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
+![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)  
 
-### 🔭 Last projects:  
+### 🔭 Last projects 
 - Pet-projects: 
   - [Online pizza-shop "REACT-PIZZA"](https://github.com/filonushka/react-pizza) (HTML, CSS, React JS)
   - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
@@ -36,14 +36,25 @@
 - DevMarathons:   
   - [Frontend-marathon (5 small projects)](https://github.com/filonushka/frontend-marathon)  
 
+### 🥋 Codewars  
+[![codewars](https://www.codewars.com/users/filonushka/badges/large)](https://www.codewars.com/users/filonushka)   
+
+
  
 ### 😉 Follow me   
 - [LinkedIn](https://www.linkedin.com/in/valeriya-filonova-89b89712b/)  
+- [Instagram](https://www.instagram.com/filonushka_v/)  
+- [Discord](https://discordapp.com/users/673457134612119562/)
 
-- [Instagram](https://www.instagram.com/filonushka_v/)
+
+### 📫 How to reach me: valeriya.s.filonova@gmail.com  
 
 
-### 📫 How to reach me: valeriya.s.filonova@gmail.com
+### 📌 Stats  
+![GitHUb Stats](https://github-readme-stats.vercel.app/api?username=filonushka&show_icons=true&theme=blueberry)  
+
+
+
 <!--
 Here are some ideas to get you started:
 
