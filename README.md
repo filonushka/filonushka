@@ -50,9 +50,9 @@
 ### 📫 How to reach me: valeriya.s.filonova@gmail.com  
 
 
-### 📌 Stats  
+<!-- ### 📌 Stats  
 ![GitHUb Stats](https://github-readme-stats.vercel.app/api?username=filonushka&show_icons=true&theme=blueberry)  
-
+-->
 
 
 <!--
