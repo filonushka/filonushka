@@ -25,7 +25,7 @@
 
 - Components: 
   - [Burger-menu Component](https://github.com/filonushka/burger-menu-js) (HTML, CSS, JS), [deploy](https://filonushka.github.io/burger-menu-js/)  
-  - [BreadCrumb Navigation Component](https://github.com/filonushka/bread-crumbs/blob/main/README.md)
+  - [BreadCrumb Navigation Component](https://github.com/filonushka/bread-crumbs/blob/main/README.md), [deploy](https://filonushka.github.io/bread-crumbs/)
   - Chips Component  
   - Slider Component 
   - Toast Notifications Component
