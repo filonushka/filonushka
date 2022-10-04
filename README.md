@@ -20,7 +20,7 @@
 - HTML+CSS:  
   - [GoCorona](https://github.com/filonushka/pet-project-gocorona) (HTML, CSS), [deploy](https://go-corona-pet-project.netlify.app/)  
   - [WebDev](https://github.com/filonushka/pet-project-webdev) (HTML, CSS), [deploy](https://filonushka.github.io/pet-project-webdev/)  
-  - [Photographer's portfolio](https://filonushka.github.io/task-portfolio/)    
+  - [Photographer's portfolio](https://github.com/filonushka/task-portfolio) (HTML, CSS), [deploy](https://filonushka.github.io/task-portfolio/)    
 
 
 - Components: 
