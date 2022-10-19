@@ -14,7 +14,7 @@
   - [Online pizza-shop "REACT-PIZZA"](https://github.com/filonushka/react-pizza) (HTML, CSS, React JS)
   - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
   - [TODO List](https://github.com/filonushka/todolist) (HTML, SASS, JS), [deploy](https://filonushka.github.io/todolist/)  
-  - [Mometum clone](https://github.com/filonushka/momentum-clone), [deploy](https://filonushka.github.io/momentum-clone/)
+  - [Mometum clone](https://github.com/filonushka/momentum-clone) (HTML, CSS, JS), [deploy](https://filonushka.github.io/momentum-clone/)
 
 
 - HTML+CSS:  
