@@ -14,7 +14,6 @@
   - [Online pizza-shop "REACT-PIZZA"](https://github.com/filonushka/react-pizza) (HTML, CSS, React JS)
   - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
   - [TODO List](https://github.com/filonushka/todolist) (HTML, SASS, JS), [deploy](https://filonushka.github.io/todolist/)  
-  - [Book Search App](https://github.com/filonushka/book-search-app)  
   - [Mometum clone](https://github.com/filonushka/momentum-clone), [deploy](https://filonushka.github.io/momentum-clone/)
 
 
@@ -27,9 +26,7 @@
 - Components: 
   - [Burger-menu Component](https://github.com/filonushka/burger-menu-js) (HTML, CSS, JS), [deploy](https://filonushka.github.io/burger-menu-js/)  
   - [BreadCrumb Navigation Component](https://github.com/filonushka/bread-crumbs/blob/main/README.md), [deploy](https://filonushka.github.io/bread-crumbs/)
-  - Chips Component  
-  - Slider Component 
-  - Toast Notifications Component
+  
 
 - Games: 
   - [Dino-game](https://github.com/filonushka/dino-game), [deploy](https://filonushka.github.io/dino-game/)
@@ -53,6 +50,11 @@
 
 <!-- ### 📌 Stats  
 ![GitHUb Stats](https://github-readme-stats.vercel.app/api?username=filonushka&show_icons=true&theme=blueberry)  
+TO DO:  
+- [Book Search App](https://github.com/filonushka/book-search-app)  
+- Chips Component  
+- Slider Component  
+- Toast Notifications Component
 -->
 
 
