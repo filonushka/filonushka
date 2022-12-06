@@ -15,7 +15,7 @@
   - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
   - [TODO List](https://github.com/filonushka/todolist) (HTML, SASS, JS), [deploy](https://filonushka.github.io/todolist/)  
   - [Mometum clone](https://github.com/filonushka/momentum-clone) (HTML, CSS, JS), [deploy](https://filonushka.github.io/momentum-clone/)
-  - [Book store](https://github.com/filonushka/book-search-app) (HTML, SASS, JS), [deploy](https://filonushka.github.io/book-search-app/)
+  - [Book store](https://github.com/filonushka/book-search-app) (HTML, SASS, JS), [deploy](https://filonushka.github.io/book-search-app/) (in the process)
 
 
 - HTML+CSS:  
