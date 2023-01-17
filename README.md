@@ -12,6 +12,7 @@
 ### 🔭 Last projects 
 - Pet-projects: 
   - [Online pizza-shop "REACT-PIZZA"](https://github.com/filonushka/react-pizza) (HTML, CSS, React JS)
+  - Web-portal for reviews "Reviews Hunter"([frontend](https://github.com/filonushka/course-project-frontend), [backend](https://github.com/filonushka/course-project-backend)), [deploy](https://course-project-frontend.vercel.app/) (in the process)
   - [Online-calculator](https://github.com/filonushka/pet-project-calculator) (HTML, CSS, JS), [deploy](https://pet-project-calculator.netlify.app/)  
   - [TODO List](https://github.com/filonushka/todolist) (HTML, SASS, JS), [deploy](https://filonushka.github.io/todolist/)  
   - [Mometum clone](https://github.com/filonushka/momentum-clone) (HTML, CSS, JS), [deploy](https://filonushka.github.io/momentum-clone/)
